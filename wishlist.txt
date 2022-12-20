@@ -1,4 +1,3 @@
 // Pulse Rifles
 // Stay Frosty
 dimwishlist:item=2812100428&perks=839105230,1561002382,588594999,3047969693
-dimwishlist:item=2812100428&perks=,588594999,3047969693
